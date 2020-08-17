@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="text1">My Application</string>
+    <string name="text2">Number 1</string>
+    <string name="text3">Number 2</string>
+    <string name="btn1">OK</string>
+    <string name="btn2">+</string>
+    <string name="btn3">-</string>
+    <string name="btn4">*</string>
+    <string name="btn5">/</string>
+    <string name="my_applivation">My Applivation</string>
+    <string name="welcome_to_my_application">Welcome to My Application</string>
+    <string name="to">To</string>
+    <string name="my_application">My Application</string>
+</resources>
